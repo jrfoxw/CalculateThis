@@ -1,5 +1,5 @@
 # CalculateThis
-Android basic calculator
+## Android Basic Calculator App
 
 Created as a personal project using the mXparser for evaluation and calculation of math.
 * Does basic math calculations using Addition, Subtraction, multiplication and Divison.
